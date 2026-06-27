@@ -1,0 +1,22 @@
+{
+    "name": "BovineLabs.Audio.Sample.AudioShowcase",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Timeline",
+        "Unity.Scenes",
+        "BovineLabs.Timeline.Authoring",
+        "BovineLabs.Vibe.Authoring",
+        "BovineLabs.Bridge.Authoring"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

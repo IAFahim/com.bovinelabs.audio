@@ -3,5 +3,12 @@
   "displayName": "BovineLabs Audio",
   "version": "1.0.0",
   "unity": "6000.0",
-  "description": "BovineLabs audio assets."
+  "description": "BovineLabs audio assets.",
+  "samples": [
+    {
+      "displayName": "Audio Showcase",
+      "description": "Timeline-driven audio over the Bridge audio backend: music selection, volume/pitch/pan sweeps, filter automation and one-shot triggers.",
+      "path": "Sample~/Audio Showcase"
+    }
+  ]
 }
